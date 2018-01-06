@@ -1,0 +1,17 @@
+c:\users\user\documents\visual studio 2015\Projects\Bill Splitting App2\Bill Splitting App2\bin\Debug\Bill Splitting App2.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Bill Splitting App2\Bill Splitting App2\bin\Debug\Bill Splitting App2.exe
+c:\users\user\documents\visual studio 2015\Projects\Bill Splitting App2\Bill Splitting App2\bin\Debug\Bill Splitting App2.pdb
+c:\users\user\documents\visual studio 2015\Projects\Bill Splitting App2\Bill Splitting App2\obj\Debug\Bill Splitting App2.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Bill Splitting App2\Bill Splitting App2\obj\Debug\Bill_Splitting_App2.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Bill Splitting App2\Bill Splitting App2\obj\Debug\Bill_Splitting_App2.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Bill Splitting App2\Bill Splitting App2\obj\Debug\Bill Splitting App2.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Bill Splitting App2\Bill Splitting App2\obj\Debug\Bill Splitting App2.exe
+c:\users\user\documents\visual studio 2015\Projects\Bill Splitting App2\Bill Splitting App2\obj\Debug\Bill Splitting App2.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Bill Splitting App2\Bill Splitting App2\obj\Debug\Bill_Splitting_App2.main.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Bill Splitting App2\Bill Splitting App2\obj\Debug\Bill_Splitting_App2.add.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Bill Splitting App2\Bill Splitting App2\obj\Debug\Bill_Splitting_App2.PopUpForm.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Bill Splitting App2\Bill Splitting App2\obj\Debug\Bill_Splitting_App2.Form2.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Bill Splitting App2\Bill Splitting App2\obj\Debug\Bill_Splitting_App2.LinkPopUpForm.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Bill Splitting App2\Bill Splitting App2\obj\Debug\Bill_Splitting_App2.Balances.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Bill Splitting App2\Bill Splitting App2\obj\Debug\Bill_Splitting_App2.SettleUp.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Bill Splitting App2\Bill Splitting App2\obj\Debug\Bill_Splitting_App2.QuitQuestion.resources
